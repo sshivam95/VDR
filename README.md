@@ -1,5 +1,5 @@
 
-# VDR-main: Visual Detection Repository
+# VDR: Virtual Dressing Room
 
 This repository focuses on visual detection using different versions of the YOLO (You Only Look Once) object detection algorithm.
 
